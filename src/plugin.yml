@@ -1,0 +1,9 @@
+name: Level Up
+author: Indiplex Team
+
+main: de.indiplex.levelup.LevelUp
+version: 0.1
+
+commands:
+  lvl:
+    description: Level management
